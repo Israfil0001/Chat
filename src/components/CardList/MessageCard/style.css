@@ -1,0 +1,25 @@
+.message-card {
+    width: 70%;
+    height: 2rem;
+    background-color: rgb(122, 120, 120);
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    padding: 1rem;
+    margin: 0.8rem;
+    border-radius: 20px;
+  }
+  .circle {
+    min-width: 50px;
+    min-height: 50px;
+    background-color: rgb(33, 51, 186);
+    border-radius: 50%;
+  }
+  .circle-img {
+    min-width: 50px;
+    border-radius: 50%;
+    min-height: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }

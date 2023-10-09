@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(32, 28, 28);
+}
+
+.nav-bar {
+    font-family: 'Montserrat', sans-serif;
+    align-items: center;
+    background-color: rgb(48, 47, 47);
+    width: 80%;
+    height: 3rem;
+    display: flex;
+    color: white;
+    border-radius: 15px;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+
+}
+
+.nav-bar-left-items {
+    display: flex;
+    gap: 1rem;
+}
