@@ -7,6 +7,7 @@ function Message() {
   return (
     <div className='container'>
      <span>sadasd</span>
+     <span>adsads</span>
     </div>
   )
 }
