@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  padding: 1rem;
+  position: relative;
+  overflow: hidden;
+  overflow-x: hidden !important;
+  width: 100% !important;
+  height: 100%;
+  background-color: rgb(32, 28, 28);
+}
