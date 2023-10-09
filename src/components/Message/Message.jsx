@@ -1,14 +1,13 @@
-import React from 'react'
-import "./style.css"
-import Home from '../home/Home'
-
+import React from "react";
+import "./style.css";
+import Home from "../home/Home";
 
 function Message() {
   return (
-    <div className='container'>
-     <span>sadasd</span>
+    <div className="container">
+      <span>sadasd</span>
     </div>
-  )
+  );
 }
 
-export default Message
+export default Message;
