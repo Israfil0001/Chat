@@ -1,17 +1,18 @@
 .nav-bar {
-  font-family: "Montserrat", sans-serif;
   align-items: center;
-  background-color: rgb(48, 47, 47);
-  width: 100%;
+  background-color: #474B58;
+  width: 95%;
   height: 3rem;
   display: flex;
   color: white;
   border-radius: 15px;
   justify-content: space-between;
-  padding: 1rem 2rem;
+  padding: 1rem ;
+  position: relative;
 }
 
 .nav-bar-left-items {
   display: flex;
   gap: 1rem;
+
 }

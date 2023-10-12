@@ -3,11 +3,11 @@ import "./style.css"
 import Home from '../home/Home'
 function Search() {
   return (
-    <div>
       <div className='container-s'>
-<input type="Search" placeholder='Поиск'  />
+        <div className='Search-message'>
+<input type="text" placeholder='Поиск'  />
+</div>
       </div>
-    </div>
   )
 }
 

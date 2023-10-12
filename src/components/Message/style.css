@@ -1,13 +1,29 @@
 .container {
   width: 68%;
-  height: 100vh;
+  height: 68%;
   position: fixed;
-  background-color: rgb(78, 78, 78);
+  background-color: #474B58;
   display: flex;
   color: white;
-  border-radius: 20px;
+  border-radius: 15px;
   justify-content: center;
   align-items: center;
   margin-left: 21rem;
-  margin-top: 1rem;
+  margin-top: 2rem;
+}
+
+.Message {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 51%;
+  width: 100%;
+}
+
+input {
+  width: 100%;
+  background-color: #474B58;
+  border-radius: 7px;
+  padding: 0.1rem;
 }

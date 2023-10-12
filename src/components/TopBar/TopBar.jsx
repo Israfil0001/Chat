@@ -8,11 +8,11 @@ function TopBar() {
         <div className="nav-bar-v2">
           <div className="nav-bar-left-items">
             <span>Чаты</span>
-            <span>Личные Сообщения</span>
-          </div>
+            <span>Личные Сообщения</span>         
+      </div>
+      </div>
           <span>Войти</span>
         </div>
-      </div>
     </div>
   );
 }

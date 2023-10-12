@@ -1,5 +1,5 @@
 .container {
-  background-color: rgb(48, 47, 47);
+  background-color: #474B58;
   border-radius: 10px;
   display: flex;
   bottom: 0;
@@ -9,11 +9,13 @@
   align-items: center;
   overflow: hidden;
   margin-top: 1rem;
+  width: 70%;
 }
 .search_and_list {
   position: fixed;
   width: 30%;
-  height: 83vh;
+  height: 83%;
+  padding: 1rem 0;
   max-width: 20rem;
 }
 .Chat {
