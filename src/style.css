@@ -9,5 +9,9 @@ body {
   overflow-x: hidden !important;
   width: 100% !important;
   height: 100%;
-  background-color: #2F3239;
+  background-color: #2f3239;
+  color: white !important;
+}
+input {
+  color: white;
 }
