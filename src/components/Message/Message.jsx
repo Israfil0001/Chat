@@ -5,12 +5,13 @@ import Home from "../home/Home";
 function Message() {
   return (
     <div className="container">
-      <div>
-        <span>sadasd</span>
+      <div className="row">
+        <div className="col"> 
       </div>
-      <div className="Message">
+      <div className="row-2">
         <input type="text" placeholder="Написать сообщение" />
       </div>
+    </div>
     </div>
   );
 }
